@@ -51,3 +51,13 @@ hr{
 .socialMedia img{
    width: 3em;
 }
+.project-containers{
+    display: flex;
+    width: 45%;
+}
+.work-history{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
