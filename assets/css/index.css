@@ -40,8 +40,14 @@ div h1 {
 #contactInfo{
     display: flex;
     gap: 10px;
-    align-items: end;
+    justify-content: flex-end;
+    width: 85%;
+
 }
 div.contactInfo > div {
    
+}
+
+hr{
+    width: 70%;
 }
